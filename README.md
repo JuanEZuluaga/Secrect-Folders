@@ -5,7 +5,7 @@ Secret folders is a project in which a web page was created that would allow a n
 ## Goal
 The objective of secret folders is to offer a new way of displaying the report of Semana magazine "Secret Folders" using an interactive multimedia system.
 
-##Avaliable at
+## Avaliable at
 
 https://secretfolders.netlify.app
 
