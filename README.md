@@ -14,6 +14,7 @@ Built in:
   - Javascript: ES6
   - HTML: 5
   - CSS: 3
+  - Adobe After Effects
 
 Dependencies:
 
